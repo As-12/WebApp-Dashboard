@@ -2,7 +2,7 @@
 
 ![WebApp Dashboard](banner.png)
 
-[![pipeline status](https://gitlab.com/As-12/Treehouse-FEWD/badges/Project07/pipeline.svg)](https://gitlab.com/As-12/Treehouse-FEWD/-/commits/Project07)
+[![pipeline status](https://gitlab.com/As-12/WebApp-Dashboard/badges/master/pipeline.svg)](https://gitlab.com/As-12/WebApp-Dashboard/-/commits/master)
 
 ## Instruction
 
